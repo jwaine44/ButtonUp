@@ -1,0 +1,28 @@
+#container {
+    margin: 50px;
+}
+
+#search {
+   color: rgb(117, 209, 178);
+    border-radius: 10px;
+   border-color: rgb(117, 209, 178);
+   width: 150px;
+   text-align: center;
+   font-family: sans-serif;
+   font-weight: bold;
+}
+#plus {
+    background-color: rgb(117, 209, 178);
+    border-radius: 50%;
+    border-color: transparent;
+    color: white;
+    font-weight: bold;
+}
+#account {
+    background-color: rgb(71, 71, 253);
+    color: white;
+    width: 170px;
+    height: 30px;
+    box-shadow: 50px;
+    text-align: center;
+}
